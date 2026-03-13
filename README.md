@@ -26,8 +26,9 @@ People living in flood-prone areas across ASEAN countries such as Malaysia, Indo
 Emergency teams such as firefighters, police, civil defence, and NGO volunteers. They need tools to monitor flood situations, see updates from communities, and coordinate rescue and aid more effectively during flood emergencies.
 
 ## Step-by-step Guide to Navigate the Prototype for Judges
-1. To explore as a Victim:
+To explore as a Victim:
 Select Resident on the Welcome screen to access Flood Alert, Evacuation Finder, Safety Guide, and Emergency Contacts.
+
 To explore as a Rescuer:
 Select Rescuer on the Welcome screen to access Neighbourhood Monitoring, Aid Tracker, Info Hub, and Disaster Map.
 
@@ -40,7 +41,4 @@ https://www.figma.com/proto/rLAYTGYWTNKFsr16xpNvlw/floodguard?node-id=19-8&p=f&t
 ## Demo Video:
 https://drive.google.com/file/d/1gX1MVP2ImJSIBiFbsSaXdcV4giFROgP-/view?usp=sharing
 
-## Setup Instructions
-1. Open the prototype link above.
-2. Click "Present" in Figma.
-3. Navigate through the screens.
+
