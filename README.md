@@ -25,6 +25,12 @@ People living in flood-prone areas across ASEAN countries such as Malaysia, Indo
 2. Rescue and Response Teams
 Emergency teams such as firefighters, police, civil defence, and NGO volunteers. They need tools to monitor flood situations, see updates from communities, and coordinate rescue and aid more effectively during flood emergencies.
 
+## Step-by-step Guide to Navigate the Prototype for Judges
+1. To explore as a Victim:
+Select Resident on the Welcome screen to access Flood Alert, Evacuation Finder, Safety Guide, and Emergency Contacts.
+To explore as a Rescuer:
+Select Rescuer on the Welcome screen to access Neighbourhood Monitoring, Aid Tracker, Info Hub, and Disaster Map.
+
 ## Final Report:
 [Final Report](FinalReport.pdf)
 
