@@ -33,7 +33,7 @@ To explore as a Rescuer:
 Select Rescuer on the Welcome screen to access Neighbourhood Monitoring, Aid Tracker, Info Hub, and Disaster Map.
 
 ## Final Report:
-[Final Report](FinalReport.pdf)
+https://drive.google.com/file/d/1MTY2sbPcuwNoL8tHmrS_opdRYNnd69hj/view?usp=drive_link
 
 ## Figma Prototype Link: 
 https://www.figma.com/proto/rLAYTGYWTNKFsr16xpNvlw/floodguard?node-id=19-8&p=f&t=3xKgNrtCTFdlJbmA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A8
