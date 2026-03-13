@@ -36,7 +36,7 @@ Select Rescuer on the Welcome screen to access Neighbourhood Monitoring, Aid Tra
 https://drive.google.com/file/d/1MTY2sbPcuwNoL8tHmrS_opdRYNnd69hj/view?usp=drive_link
 
 ## Figma Prototype Link: 
-https://www.figma.com/proto/rLAYTGYWTNKFsr16xpNvlw/floodguard?node-id=19-8&p=f&t=3xKgNrtCTFdlJbmA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A8
+https://www.figma.com/proto/rLAYTGYWTNKFsr16xpNvlw/floodguard?node-id=438-22&t=LodJyGlCQ01pnQZE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A8
 
 ## Demo Video:
 https://drive.google.com/file/d/1gX1MVP2ImJSIBiFbsSaXdcV4giFROgP-/view?usp=sharing
