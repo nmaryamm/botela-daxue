@@ -26,6 +26,10 @@ People living in flood-prone areas across ASEAN countries such as Malaysia, Indo
 Emergency teams such as firefighters, police, civil defence, and NGO volunteers. They need tools to monitor flood situations, see updates from communities, and coordinate rescue and aid more effectively during flood emergencies.
 
 ## Step-by-step Guide to Navigate the Prototype for Judges
+1. This system allows users to choose the country they are currently in. However, for this prototype, please click Malaysia to proceed to the next page.
+
+2. Exploring each persona
+
 To explore as a Victim:
 Select Resident on the Welcome screen to access Flood Alert, Evacuation Finder, Safety Guide, and Emergency Contacts.
 
